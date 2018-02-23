@@ -93,3 +93,17 @@ P(O|F)=P(O∩F)P(F)
 Obviously P(F)=1∕6.P(F)=1∕6. In part (a) we found that P(F∩O)=1∕6.P(F∩O)=1∕6. Thus
 
 P(O|F)=P(O∩F)P(F)=1∕61∕6=1
+
+### the expectation of an event occurring from a discrete, random variable.
+
+Uniformly random selection is only possible from a finite set; so this is what we do: we always select from a finite set but do this repeatedly, each time selecting from a bigger set. Here's a more accurate definition:
+
+Let q be a Boolean function (i.e., a function that takes values true and false) defined on the set N of integers and q(n) the number of integers k∈Nn={a: 1≤a≤n} for which q(k)=true. We think of  q(n)n as the probability of an integer from Nn to have the property q.
+Now, the probability that a random integer has property q is defined as  limn→∞q(n)n.
+Let's see how this definition works for the problem of divisibility by 5.
+
+Let n=5m+r, where 0≤r≤4}. The number q(n) of integers not exceeding n and divisible by 5 equals q(n)=⌊q(n)5⌋=m, where ⌊a⌋ is the floor function. Further,
+
+q(n)n=mn=(n−r)/5n=15−r5n,
+
+implying that indeed, limn→∞q(n)n=15.
