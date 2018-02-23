@@ -59,3 +59,35 @@ The divisiors of 45 are : 1, 3, 5, 9, 15, 45
 The divisiors of 54 are : 1, 2, 3, 6, 9, 18, 27, 54
 
 Step 2: Find the greatest number that these two lists share in common. In this example the GCD is 9.
+
+## Deduce the conditional probability of different events occurring within independent trials
+
+A fair die is rolled.
+
+Find the probability that the number rolled is a five, given that it is odd.
+Find the probability that the number rolled is odd, given that it is a five.
+Solution:
+
+The sample space for this experiment is the set S={1,2,3,4,5,6}S={1,2,3,4,5,6} consisting of six equally likely outcomes. Let F denote the event “a five is rolled” and let O denote the event “an odd number is rolled,” so that
+
+F={5} and O={1,3,5}
+F={5} and O={1,3,5}
+This is the introductory example, so we already know that the answer is 1/3. To use the formula in the definition to confirm this we must replace A in the formula (the event whose likelihood we seek to estimate) by F and replace B (the event we know for certain has occurred) by O:
+
+P(F|O)=P(F∩O)P(O)
+P(F|O)=P(F∩O)P(O)
+Since F∩O={5}∩{1,3,5}={5}F∩O={5}∩{1,3,5}={5}, P(F∩O)=1∕6.P(F∩O)=1∕6.
+
+Since O={1,3,5}O={1,3,5}, P(O)=3∕6.P(O)=3∕6.
+
+Thus
+
+P(F|O)=P(F∩O)P(O)=1∕63∕6=13
+P(F|O)=P(F∩O)P(O)=1∕63∕6=13
+This is the same problem, but with the roles of F and O reversed. Since we are given that the number that was rolled is five, which is odd, the probability in question must be 1. To apply the formula to this case we must now replace A (the event whose likelihood we seek to estimate) by O and B (the event we know for certain has occurred) by F:
+
+P(O|F)=P(O∩F)P(F)
+P(O|F)=P(O∩F)P(F)
+Obviously P(F)=1∕6.P(F)=1∕6. In part (a) we found that P(F∩O)=1∕6.P(F∩O)=1∕6. Thus
+
+P(O|F)=P(O∩F)P(F)=1∕61∕6=1
