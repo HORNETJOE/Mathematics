@@ -109,5 +109,5 @@ q(n)n=mn=(n−r)/5n=15−r5n,
 implying that indeed, limn→∞q(n)n=15.
 
 ### Identify simple shapes using co-ordinate geometry.
-![First Gantt](https://github.com/RebootGames/ZSL-The-Climate-Menace/blob/master/Gantt%20Chart.PNG)
-![First Gantt](https://github.com/RebootGames/ZSL-The-Climate-Menace/blob/master/Gantt%20Chart.PNG)
+![First Gantt](https://github.com/HORNETJOE/Mathematics/blob/master/picture_11789_Screen_shot_2010-08-09_at_8.35.35_AM.png)
+![First Gantt](https://github.com/HORNETJOE/Mathematics/blob/master/picture_6318_Screen_shot_2010-07-08_at_11.53.39_AM.png)
