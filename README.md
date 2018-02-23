@@ -107,3 +107,7 @@ Let n=5m+r, where 0≤r≤4}. The number q(n) of integers not exceeding n and di
 q(n)n=mn=(n−r)/5n=15−r5n,
 
 implying that indeed, limn→∞q(n)n=15.
+
+### Identify simple shapes using co-ordinate geometry.
+![First Gantt](https://github.com/RebootGames/ZSL-The-Climate-Menace/blob/master/Gantt%20Chart.PNG)
+![First Gantt](https://github.com/RebootGames/ZSL-The-Climate-Menace/blob/master/Gantt%20Chart.PNG)
