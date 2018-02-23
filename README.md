@@ -62,6 +62,8 @@ Step 2: Find the greatest number that these two lists share in common. In this e
 
 ## Deduce the conditional probability of different events occurring within independent trials
 
+below is a example of the the of how to Deduce the conditional probability of different events occurring within independent trials involving a dice throw.
+
 A fair die is rolled.
 
 Find the probability that the number rolled is a five, given that it is odd.
