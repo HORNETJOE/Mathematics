@@ -1,5 +1,6 @@
 # Mathematics
 ## Algorithm to calculate Arithmetic and Geometric Progression
+below is a example of a algorithm to calculate aritmtic and geometric progression.
 
  #include <iostream>
 	
