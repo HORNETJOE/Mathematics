@@ -126,8 +126,6 @@ In general, an average rate a change function is a process that calculates the t
 ### Integral Calculus
 Intergral calculas is used to calculate whats inside a curve, if the shape is normal or common then you don't have to use integral calculus. However if the shape is more complex, then you can use the given a and b points on a graph to work out the area of a to b.
 
-below are diffrent equations that sarround integral calculus.
-
 ![Graph](https://i.imgur.com/NnqLOp3.png)
 
 ![Rec](https://i.imgur.com/IGeVbPZ.png)
