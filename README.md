@@ -114,3 +114,8 @@ below are two images which have example of how to Identify simple shapes using c
 ![First Gantt](https://github.com/HORNETJOE/Mathematics/blob/master/picture_11789_Screen_shot_2010-08-09_at_8.35.35_AM.png)
 
 ![First Gantt](https://github.com/HORNETJOE/Mathematics/blob/master/picture_6318_Screen_shot_2010-07-08_at_11.53.39_AM.png)
+
+### Rate of change
+what is rate of change?
+
+Rate of change describes the average rate at which one quantity is changing with respect to something else changing
