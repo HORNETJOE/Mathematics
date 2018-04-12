@@ -119,5 +119,5 @@ below are two images which have example of how to Identify simple shapes using c
 what is rate of change?
 
 Rate of change describes the average rate at which one quantity is changing with respect to something else changing.
-In general, an average rate a change function is a process that calculates the the amount of change in one item divided by the corresponding amount of change in another. Using function notation, we can define the Average rate of Change of a function ffrom ato xas:
+In general, an average rate a change function is a process that calculates the the amount of change in one item divided by the corresponding amount of change in another.
 ![First Gantt](https://github.com/HORNETJOE/Mathematics/blob/master/formla.jpg)
