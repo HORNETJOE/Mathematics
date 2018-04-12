@@ -109,6 +109,8 @@ q(n)n=mn=(n−r)/5n=15−r5n,
 implying that indeed, limn→∞q(n)n=15.
 
 ### Identify simple shapes using co-ordinate geometry
-below are two images which have example of how to Identify simple shapes using co-ordinate geometry.
+below are two images which have example of how to Identify simple shapes using co-ordinate geometry. Co-ordinate geometry is the rules by which different shapes can be created and identified. for example, an equallateral triangle must have 3 sides of the same length and 3 equal angles. By following these rules, you will always end up with an equallateral triangle.
+
 ![First Gantt](https://github.com/HORNETJOE/Mathematics/blob/master/picture_11789_Screen_shot_2010-08-09_at_8.35.35_AM.png)
+
 ![First Gantt](https://github.com/HORNETJOE/Mathematics/blob/master/picture_6318_Screen_shot_2010-07-08_at_11.53.39_AM.png)
