@@ -123,6 +123,22 @@ In general, an average rate a change function is a process that calculates the t
 
 ![image](https://github.com/HORNETJOE/Mathematics/blob/master/formla.jpg)
 
+The calculation for thos is located below
+
+F(x) = x²
+	Rate of change from 1 to 3
+	(3² - 1²) / (3-1) = (9-1) / (3-1) = 8/2 = 4
+
+This answer converted into binary is 0100
+  
+	
+    F(x) = 2x+3
+    	Rate of change from 10 to 100
+	(2*100+3) - (2*10+3) / (100 - 10) = 180/90 = 2
+
+This answer converted into hexadecimals is 2
+
+
 ### Integral Calculus
 Intergral calculas is used to calculate whats inside a curve, if the shape is normal or common then you don't have to use integral calculus. However if the shape is more complex, then you can use the given a and b points on a graph to work out the area of a to b.
 
