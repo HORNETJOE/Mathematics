@@ -132,3 +132,6 @@ Intergral calculas is used to calculate whats inside a curve, if the shape is no
 
 ### Vectors
 A vector is a quantity or phenomenon that has two independent properties: magnitudeand direction. The term also denotes the mathematical or geometrical representation of such a quantity.
+
+the link below will direct to the code that uses vecotr to determine shapes
+https://github.com/HORNETJOE/Mathematics/blob/master/Code.txt
