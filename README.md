@@ -155,3 +155,4 @@ A vector is a quantity or phenomenon that has two independent properties: magnit
 
 the link below will direct to the code that uses vecotr to determine shapes
 https://github.com/HORNETJOE/Mathematics/blob/master/Code.txt
+![image](https://github.com/HORNETJOE/Mathematics/blob/master/Formla.PNG)
